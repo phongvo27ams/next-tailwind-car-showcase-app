@@ -10,7 +10,7 @@ export async function GET(req: NextRequest) {
   const model = searchParams.get('model')?.toLowerCase() || '';
   const year = searchParams.get('year');
   const fuel = searchParams.get('fuel_type')?.toLowerCase() || '';
-  const limit = parseInt(searchParams.get('limit') || '10');
+  const limit = parseInt(searchParams.get('limit') || '4');
 
   // Filter mock data based on the search parameters
   const filteredCars = cars.filter((car) => {
