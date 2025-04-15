@@ -1,0 +1,82 @@
+[
+  {
+    "make": "Toyota",
+    "model": "Yaris Cross",
+    "year": 2022,
+    "class": "B",
+    "fuel_type": "Hybrid",
+    "highway_mpg": 38,
+    "city_mpg": 30,
+    "combination_mpg": 33,
+    "drive": "FWD",
+    "transmission": "Automatic",
+    "cylinders": 4,
+    "displacement": 1,
+    "images": [
+      "/cars/toyota-yaris-cross-1.png",
+      "/cars/toyota-yaris-cross-2.png",
+      "/cars/toyota-yaris-cross-3.png",
+      "/cars/toyota-yaris-cross-4.png"
+    ]
+  },
+  {
+    "make": "Mazda",
+    "model": "CX-30",
+    "year": 2021,
+    "class": "B",
+    "fuel_type": "Gas",
+    "highway_mpg": 36,
+    "city_mpg": 28,
+    "combination_mpg": 30,
+    "drive": "AWD",
+    "transmission": "Automatic",
+    "cylinders": 4,
+    "displacement": 1,
+    "images": [
+      "/cars/toyota-yaris-cross-1.png",
+      "/cars/toyota-yaris-cross-2.png",
+      "/cars/toyota-yaris-cross-3.png",
+      "/cars/toyota-yaris-cross-4.png"
+    ]
+  },
+  {
+    "make": "Volkswagen",
+    "model": "T-Cross",
+    "year": 2024,
+    "class": "B",
+    "fuel_type": "Gas",
+    "highway_mpg": 29,
+    "city_mpg": 25,
+    "combination_mpg": 27,
+    "drive": "FWD",
+    "transmission": "Automatic",
+    "cylinders": 4,
+    "displacement": 1,
+    "images": [
+      "/cars/toyota-yaris-cross-1.png",
+      "/cars/toyota-yaris-cross-2.png",
+      "/cars/toyota-yaris-cross-3.png",
+      "/cars/toyota-yaris-cross-4.png"
+    ]
+  },
+  {
+    "make": "Hyundai",
+    "model": "Creta",
+    "year": 2023,
+    "class": "B",
+    "fuel_type": "Gas",
+    "highway_mpg": 30,
+    "city_mpg": 25,
+    "combination_mpg": 29,
+    "drive": "4WD",
+    "transmission": "Automatic",
+    "cylinders": 4,
+    "displacement": 1,
+    "images": [
+      "/cars/toyota-yaris-cross-1.png",
+      "/cars/toyota-yaris-cross-2.png",
+      "/cars/toyota-yaris-cross-3.png",
+      "/cars/toyota-yaris-cross-4.png"
+    ]
+  }
+]
