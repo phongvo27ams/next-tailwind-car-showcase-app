@@ -78,5 +78,45 @@
       "/cars/toyota-yaris-cross-3.png",
       "/cars/toyota-yaris-cross-4.png"
     ]
+  },
+  {
+    "make": "Peugeot",
+    "model": "2008",
+    "year": 2023,
+    "class": "B",
+    "fuel_type": "Gas",
+    "highway_mpg": 33,
+    "city_mpg": 31,
+    "combination_mpg": 30,
+    "drive": "FWD",
+    "transmission": "Automatic",
+    "cylinders": 4,
+    "displacement": 1,
+    "images": [
+      "/cars/toyota-yaris-cross-1.png",
+      "/cars/toyota-yaris-cross-2.png",
+      "/cars/toyota-yaris-cross-3.png",
+      "/cars/toyota-yaris-cross-4.png"
+    ]
+  },
+  {
+    "make": "KIA",
+    "model": "Seltos",
+    "year": 2022,
+    "class": "B",
+    "fuel_type": "Gas",
+    "highway_mpg": 28,
+    "city_mpg": 30,
+    "combination_mpg": 29,
+    "drive": "FWD",
+    "transmission": "Automatic",
+    "cylinders": 4,
+    "displacement": 1,
+    "images": [
+      "/cars/toyota-yaris-cross-1.png",
+      "/cars/toyota-yaris-cross-2.png",
+      "/cars/toyota-yaris-cross-3.png",
+      "/cars/toyota-yaris-cross-4.png"
+    ]
   }
 ]
