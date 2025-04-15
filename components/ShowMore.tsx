@@ -1,23 +1,19 @@
 'use client';
 
-import { useRouter } from 'next/navigation';
-
 import { ShowMoreProps } from '@/types';
-import { updateSearchParams } from '@/utils';
 
 import CustomButton from './CustomButton';
 
-const ShowMore = ({ pageNumber, isNext }: ShowMoreProps) => {
-  const router = useRouter();
+const ShowMore = ({ limit, setLimit, totalCount }: ShowMoreProps) => {
   const handleNavigation = () => {
-    const newLimit = (pageNumber + 1) * 10;
-    const newPathName = updateSearchParams('limit', `${newLimit}`);
-    router.push(newPathName);
+    setLimit(prev => prev + 4); // Just add 4 each time
   };
+
+  const isMaxReached = limit >= totalCount;
 
   return (
     <div className="w-full flex-center gap-5 mt-10">
-      {!isNext && (
+      {!isMaxReached && (
         <CustomButton
           title="Show more"
           btnType="button"
@@ -27,6 +23,7 @@ const ShowMore = ({ pageNumber, isNext }: ShowMoreProps) => {
       )}
     </div>
   );
-}
+};
+
 
 export default ShowMore;

@@ -3,20 +3,23 @@ export const manufacturers = [
   "Ford",
   "Hyundai",
   "Isuzu",
+  "Kia",
   "Mazda",
   "MG",
   "Mitsubishi",
+  "Peugeot",
   "Subaru",
-  "Toyota"
+  "Toyota",
+  "Volkswagen"
 ]
 
 export const yearsOfProduction = [
   { title: "Year", value: "" },
-  { title: "2015", value: "2015" },
-  { title: "2016", value: "2016" },
-  { title: "2017", value: "2017" },
-  { title: "2018", value: "2018" },
-  { title: "2019", value: "2019" }
+  { title: "2021", value: "2021" },
+  { title: "2022", value: "2022" },
+  { title: "2023", value: "2023" },
+  { title: "2024", value: "2024" },
+  { title: "2025", value: "2025" }
 ]
 
 export const fuels = [

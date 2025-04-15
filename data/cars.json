@@ -2,7 +2,7 @@
   {
     "make": "Toyota",
     "model": "Yaris Cross",
-    "year": 2022,
+    "year": 2025,
     "class": "B",
     "fuel_type": "Hybrid",
     "highway_mpg": 38,
@@ -22,7 +22,7 @@
   {
     "make": "Mazda",
     "model": "CX-30",
-    "year": 2021,
+    "year": 2024,
     "class": "B",
     "fuel_type": "Gas",
     "highway_mpg": 36,
@@ -42,7 +42,7 @@
   {
     "make": "Volkswagen",
     "model": "T-Cross",
-    "year": 2024,
+    "year": 2025,
     "class": "B",
     "fuel_type": "Gas",
     "highway_mpg": 29,
@@ -62,7 +62,7 @@
   {
     "make": "Hyundai",
     "model": "Creta",
-    "year": 2023,
+    "year": 2025,
     "class": "B",
     "fuel_type": "Gas",
     "highway_mpg": 30,
@@ -82,7 +82,7 @@
   {
     "make": "Peugeot",
     "model": "2008",
-    "year": 2023,
+    "year": 2025,
     "class": "B",
     "fuel_type": "Gas",
     "highway_mpg": 33,
@@ -102,7 +102,7 @@
   {
     "make": "KIA",
     "model": "Seltos",
-    "year": 2022,
+    "year": 2025,
     "class": "B",
     "fuel_type": "Gas",
     "highway_mpg": 28,
@@ -122,7 +122,7 @@
   {
     "make": "Toyota",
     "model": "Yaris Cross",
-    "year": 2022,
+    "year": 2025,
     "class": "B",
     "fuel_type": "Hybrid",
     "highway_mpg": 38,
@@ -142,7 +142,7 @@
   {
     "make": "Mazda",
     "model": "CX-30",
-    "year": 2021,
+    "year": 2024,
     "class": "B",
     "fuel_type": "Gas",
     "highway_mpg": 36,
@@ -162,7 +162,7 @@
   {
     "make": "Volkswagen",
     "model": "T-Cross",
-    "year": 2024,
+    "year": 2025,
     "class": "B",
     "fuel_type": "Gas",
     "highway_mpg": 29,
@@ -182,7 +182,7 @@
   {
     "make": "Hyundai",
     "model": "Creta",
-    "year": 2023,
+    "year": 2025,
     "class": "B",
     "fuel_type": "Gas",
     "highway_mpg": 30,
@@ -202,7 +202,7 @@
   {
     "make": "Peugeot",
     "model": "2008",
-    "year": 2023,
+    "year": 2025,
     "class": "B",
     "fuel_type": "Gas",
     "highway_mpg": 33,
@@ -222,7 +222,7 @@
   {
     "make": "KIA",
     "model": "Seltos",
-    "year": 2022,
+    "year": 2025,
     "class": "B",
     "fuel_type": "Gas",
     "highway_mpg": 28,
@@ -242,7 +242,7 @@
   {
     "make": "Toyota",
     "model": "Yaris Cross",
-    "year": 2022,
+    "year": 2025,
     "class": "B",
     "fuel_type": "Hybrid",
     "highway_mpg": 38,
@@ -262,7 +262,7 @@
   {
     "make": "Mazda",
     "model": "CX-30",
-    "year": 2021,
+    "year": 2024,
     "class": "B",
     "fuel_type": "Gas",
     "highway_mpg": 36,
@@ -282,7 +282,7 @@
   {
     "make": "Volkswagen",
     "model": "T-Cross",
-    "year": 2024,
+    "year": 2025,
     "class": "B",
     "fuel_type": "Gas",
     "highway_mpg": 29,
@@ -302,7 +302,7 @@
   {
     "make": "Hyundai",
     "model": "Creta",
-    "year": 2023,
+    "year": 2025,
     "class": "B",
     "fuel_type": "Gas",
     "highway_mpg": 30,
@@ -322,7 +322,7 @@
   {
     "make": "Peugeot",
     "model": "2008",
-    "year": 2023,
+    "year": 2025,
     "class": "B",
     "fuel_type": "Gas",
     "highway_mpg": 33,
@@ -342,7 +342,7 @@
   {
     "make": "KIA",
     "model": "Seltos",
-    "year": 2022,
+    "year": 2025,
     "class": "B",
     "fuel_type": "Gas",
     "highway_mpg": 28,
